@@ -1,0 +1,28 @@
+[PROJECT]
+Target=F:\Study\2017\Thiet ke he thong nhung\PIC KIT\10\ESP8266\main.hex
+Development_Mode=
+Processor_Text=PIC16F877A
+ToolSuite=CCS
+Processor=0x877A
+[F:\Study\2017\Thiet ke he thong nhung\PIC KIT\10\ESP8266\main]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=F:\Study\2017\Thiet ke he thong nhung\PIC KIT\10\ESP8266\main.c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Units]
+Link=0
+Count=1
+1=main
+2=esp8266.c
+[Opened Files]
+1=main.c
+2=main.h
+3=esp8266.c
+4=
+5=

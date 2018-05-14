@@ -1,0 +1,7 @@
+>>> Warning 207 "main.c" Line 318(1,1): Code has no effect
+>>> Warning 207 "main.c" Line 326(1,1): Code has no effect
+>>> Warning 207 "main.c" Line 333(1,1): Code has no effect
+>>> Warning 202 "F:\Study\2017\Thiet ke he thong nhung\BTL\ESP8266 dau\main.h" Line 15(5,8): Variable never used:   rs232_errors
+>>> Warning 202 "main.c" Line 12(27,37): Variable never used:   temp_count
+      Memory usage:   ROM=85%      RAM=71% - 86%
+      0 Errors,  5 Warnings.
